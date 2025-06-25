@@ -43,7 +43,7 @@ const Training = () => {
             <div className="space-y-4">
               <div className="text-center">
                 <h4 className="font-montserrat text-xl font-semibold text-slate-800 mb-2">
-                  Олег Комдев
+                  Комлев Олег Анатольевич
                 </h4>
                 <p className="font-open-sans text-slate-600 leading-relaxed">
                   Мастер спорта международного класса по тяжелой атлетике. Опыт
