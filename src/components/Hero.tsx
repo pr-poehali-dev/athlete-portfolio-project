@@ -12,7 +12,7 @@ const Hero = () => {
             Руслан <span className="text-blue-600">Алексеев</span>
           </h1>
           <p className="font-open-sans text-xl md:text-2xl text-slate-600 mb-8 leading-relaxed">
-            Тяжелоатлет, студент Колледжа олимпийского резерва
+            Тяжелоатлет, студент Училища (техникума) Олимпийского резерва
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
             <a
